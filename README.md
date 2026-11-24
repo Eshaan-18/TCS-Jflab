@@ -1,7 +1,7 @@
 # TCS JFLAP ASSIGNMENT
 
-**Student Name:** TANVI JAGADE  
-**Roll No / Class:** D12B-19  
+**Student Name:** Eshaan Hingorani 
+**Roll No / Class:** D12B-18 
 **Subject:** Theory of Computer Science (TCS)  
 **Tool:** JFLAP (Java Formal Languages and Automata Package)  
 
